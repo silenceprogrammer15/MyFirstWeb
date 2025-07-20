@@ -1,7 +1,7 @@
 body {
     display: flex;
     justify-content: center;
-    height: 300px;
+    height: 400px;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ body {
     width: 70%;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    color: black;
+    color: blue;
     border: 1px solid black;
     padding: 1em;
     margin: 0;
